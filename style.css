@@ -1,0 +1,160 @@
+
+img{
+    
+    width: 70%;
+    size: 100%;
+  
+}
+h1{
+    max-width: 1000px;
+    min-width: 200px;
+    
+}
+
+
+.div1{
+    /* border: 2px solid rebeccapurple; */
+    /* margin: 20px; */
+    background-color: whitesmoke;
+   /*  border: solid 5px greenyellow; */
+}
+.div2{
+   /*  border: 2px solid rebeccapurple; */
+    text-align: center;
+    margin: 30px;
+}
+.div3{
+    
+   
+  /*   border: 2px solid rebeccapurple; */
+    margin: 30px;
+    /* display: inline-block; */
+    padding: 10px;
+
+    background-color: rgb(36, 80, 202);
+    /* border: 5px solid skyblue; */
+}  
+
+/*  @media only screen and (max-width:10%){
+ .table{
+     
+    min-width: 10px;
+    max-width: 50px;
+ }
+}  */
+ 
+ 
+.main1{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+
+}
+.main2{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.main3{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.main4{
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.main5{
+
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.main6{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.main7{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.main8{
+
+    display: flex;
+  
+    flex-wrap: wrap;
+}
+.main9{
+
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.main10{
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.main11{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.main12{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.main13{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.city{
+   display: flex;
+   flex-wrap: wrap;
+  
+}
+ 
+.labels{
+        
+    width:200px;
+    padding-bottom: 20px;
+  
+   
+   
+   
+    
+   /*   
+   justify-content:space-between;
+   display: inline-block;
+    float: left;
+    padding-bottom: 20px;
+    min-width: 14%;
+    max-width: 15%; 
+     */
+
+}
+
+
+
+
+form{
+   
+    background-color: rgb(36, 80, 202);
+    color: rgb(255, 255, 255);
+  /*   border: green 5px solid; */
+}
+ 
+
